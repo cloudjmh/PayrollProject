@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haag_CourseProject_Part2", "Haag_CourseProject_Part2.csproj", "{5E26EF09-04C4-4353-BAC0-82A741D8B115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E26EF09-04C4-4353-BAC0-82A741D8B115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E26EF09-04C4-4353-BAC0-82A741D8B115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E26EF09-04C4-4353-BAC0-82A741D8B115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E26EF09-04C4-4353-BAC0-82A741D8B115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8D6947-E835-41FA-A717-91DACC99BC55}
+	EndGlobalSection
+EndGlobal
